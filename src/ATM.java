@@ -2,12 +2,12 @@ import java.util.*;
 import java.util.HashMap;
 
 
-public class SimpleATM 
+public class ATM 
 {   
 
 	private HashMap <String, Double > b = new HashMap <String, Double>();
 
-	public SimpleATM() {
+	public ATM() {
 		
 	}
 		
